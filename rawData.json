@@ -1,0 +1,2081 @@
+[
+  {
+    "date": "03/01/2020",
+    "phone": "60128846458",
+    "store": "Alpha Sdn Bhd",
+    "collected": "121",
+    "redeemed": null
+  },
+  {
+    "date": "05/01/2020",
+    "phone": "60128542161",
+    "store": "Charlie Sdn Bhd",
+    "collected": "161",
+    "redeemed": null
+  },
+  {
+    "date": "05/01/2020",
+    "phone": "60173527250",
+    "store": "Foxtrot Sdn Bhd",
+    "collected": "69",
+    "redeemed": null
+  },
+  {
+    "date": "05/01/2020",
+    "phone": "60121224273",
+    "store": "Foxtrot Sdn Bhd",
+    "collected": "157",
+    "redeemed": null
+  },
+  {
+    "date": "06/01/2020",
+    "phone": "60122691965",
+    "store": "Alpha Sdn Bhd",
+    "collected": "71",
+    "redeemed": null
+  },
+  {
+    "date": "09/01/2020",
+    "phone": "60126120223",
+    "store": "Alpha Sdn Bhd",
+    "collected": "174",
+    "redeemed": null
+  },
+  {
+    "date": "12/01/2020",
+    "phone": "60127031404",
+    "store": "Alpha Sdn Bhd",
+    "collected": "111",
+    "redeemed": null
+  },
+  {
+    "date": "13/01/2020",
+    "phone": "60125273425",
+    "store": "Echo Sdn Bhd",
+    "collected": "31",
+    "redeemed": null
+  },
+  {
+    "date": "15/01/2020",
+    "phone": "60125273425",
+    "store": "Alpha Sdn Bhd",
+    "collected": "162",
+    "redeemed": null
+  },
+  {
+    "date": "15/01/2020",
+    "phone": "60121224273",
+    "store": "Charlie Sdn Bhd",
+    "collected": "47",
+    "redeemed": null
+  },
+  {
+    "date": "17/01/2020",
+    "phone": "60121224273",
+    "store": "Foxtrot Sdn Bhd",
+    "collected": "121",
+    "redeemed": null
+  },
+  {
+    "date": "19/01/2020",
+    "phone": "60129546732",
+    "store": "Echo Sdn Bhd",
+    "collected": "49",
+    "redeemed": null
+  },
+  {
+    "date": "20/01/2020",
+    "phone": "60121224273",
+    "store": "Foxtrot Sdn Bhd",
+    "collected": "153",
+    "redeemed": null
+  },
+  {
+    "date": "22/01/2020",
+    "phone": "60128846458",
+    "store": "Beta Sdn Bhd",
+    "collected": "189",
+    "redeemed": null
+  },
+  {
+    "date": "22/01/2020",
+    "phone": "60128598509",
+    "store": "Delta Sdn Bhd",
+    "collected": "166",
+    "redeemed": null
+  },
+  {
+    "date": "22/01/2020",
+    "phone": "60173527250",
+    "store": "Foxtrot Sdn Bhd",
+    "collected": "194",
+    "redeemed": null
+  },
+  {
+    "date": "26/01/2020",
+    "phone": "60129546732",
+    "store": "Foxtrot Sdn Bhd",
+    "collected": "55",
+    "redeemed": null
+  },
+  {
+    "date": "27/01/2020",
+    "phone": "60125273425",
+    "store": "Charlie Sdn Bhd",
+    "collected": "198",
+    "redeemed": null
+  },
+  {
+    "date": "28/01/2020",
+    "phone": "60121224273",
+    "store": "Alpha Sdn Bhd",
+    "collected": "186",
+    "redeemed": null
+  },
+  {
+    "date": "29/01/2020",
+    "phone": "60122911039",
+    "store": "Beta Sdn Bhd",
+    "collected": "33",
+    "redeemed": null
+  },
+  {
+    "date": "31/01/2020",
+    "phone": "60126431312",
+    "store": "Beta Sdn Bhd",
+    "collected": "58",
+    "redeemed": null
+  },
+  {
+    "date": "02/02/2020",
+    "phone": "60126431312",
+    "store": "Gamma Sdn Bhd",
+    "collected": "156",
+    "redeemed": null
+  },
+  {
+    "date": "03/02/2020",
+    "phone": "60122691965",
+    "store": "Gamma Sdn Bhd",
+    "collected": "103",
+    "redeemed": null
+  },
+  {
+    "date": "04/02/2020",
+    "phone": "60126120223",
+    "store": "Echo Sdn Bhd",
+    "collected": "136",
+    "redeemed": null
+  },
+  {
+    "date": "06/02/2020",
+    "phone": "60173527250",
+    "store": "Echo Sdn Bhd",
+    "collected": "116",
+    "redeemed": null
+  },
+  {
+    "date": "08/02/2020",
+    "phone": "60129546732",
+    "store": "Echo Sdn Bhd",
+    "collected": "143",
+    "redeemed": null
+  },
+  {
+    "date": "08/02/2020",
+    "phone": "60124596256",
+    "store": "Gamma Sdn Bhd",
+    "collected": "116",
+    "redeemed": null
+  },
+  {
+    "date": "10/02/2020",
+    "phone": "60127031404",
+    "store": "Delta Sdn Bhd",
+    "collected": "169",
+    "redeemed": null
+  },
+  {
+    "date": "11/02/2020",
+    "phone": "60124596256",
+    "store": "Delta Sdn Bhd",
+    "collected": "83",
+    "redeemed": null
+  },
+  {
+    "date": "12/02/2020",
+    "phone": "60173527250",
+    "store": "Delta Sdn Bhd",
+    "collected": "50",
+    "redeemed": null
+  },
+  {
+    "date": "13/02/2020",
+    "phone": "60128846458",
+    "store": "Charlie Sdn Bhd",
+    "collected": "154",
+    "redeemed": null
+  },
+  {
+    "date": "14/02/2020",
+    "phone": "60127031404",
+    "store": "Alpha Sdn Bhd",
+    "collected": "177",
+    "redeemed": null
+  },
+  {
+    "date": "15/02/2020",
+    "phone": "60173527250",
+    "store": "Gamma Sdn Bhd",
+    "collected": "53",
+    "redeemed": null
+  },
+  {
+    "date": "17/02/2020",
+    "phone": "60173527250",
+    "store": "Gamma Sdn Bhd",
+    "collected": "62",
+    "redeemed": null
+  },
+  {
+    "date": "18/02/2020",
+    "phone": "60128846458",
+    "store": "Alpha Sdn Bhd",
+    "collected": "98",
+    "redeemed": null
+  },
+  {
+    "date": "19/02/2020",
+    "phone": "60127031404",
+    "store": "Beta Sdn Bhd",
+    "collected": "32",
+    "redeemed": null
+  },
+  {
+    "date": "20/02/2020",
+    "phone": "60128598509",
+    "store": "Echo Sdn Bhd",
+    "collected": "161",
+    "redeemed": null
+  },
+  {
+    "date": "20/02/2020",
+    "phone": "60121224273",
+    "store": "Gamma Sdn Bhd",
+    "collected": "189",
+    "redeemed": null
+  },
+  {
+    "date": "21/02/2020",
+    "phone": "60122691965",
+    "store": "Gamma Sdn Bhd",
+    "collected": "178",
+    "redeemed": null
+  },
+  {
+    "date": "22/02/2020",
+    "phone": "60128542161",
+    "store": "Charlie Sdn Bhd",
+    "collected": "114",
+    "redeemed": null
+  },
+  {
+    "date": "23/02/2020",
+    "phone": "60128542161",
+    "store": "Alpha Sdn Bhd",
+    "collected": "39",
+    "redeemed": null
+  },
+  {
+    "date": "25/02/2020",
+    "phone": "60121224273",
+    "store": "Foxtrot Sdn Bhd",
+    "collected": "37",
+    "redeemed": null
+  },
+  {
+    "date": "27/02/2020",
+    "phone": "60173527250",
+    "store": "Alpha Sdn Bhd",
+    "collected": "182",
+    "redeemed": null
+  },
+  {
+    "date": "29/02/2020",
+    "phone": "60124596256",
+    "store": "Delta Sdn Bhd",
+    "collected": "166",
+    "redeemed": null
+  },
+  {
+    "date": "29/02/2020",
+    "phone": "60124596256",
+    "store": "Alpha Sdn Bhd",
+    "collected": "33",
+    "redeemed": null
+  },
+  {
+    "date": "01/03/2020",
+    "phone": "60123966512",
+    "store": "Foxtrot Sdn Bhd",
+    "collected": "108",
+    "redeemed": null
+  },
+  {
+    "date": "01/03/2020",
+    "phone": "60126431312",
+    "store": "Alpha Sdn Bhd",
+    "collected": "40",
+    "redeemed": null
+  },
+  {
+    "date": "02/03/2020",
+    "phone": "60126431312",
+    "store": "Foxtrot Sdn Bhd",
+    "collected": "157",
+    "redeemed": null
+  },
+  {
+    "date": "03/03/2020",
+    "phone": "60128598509",
+    "store": "Echo Sdn Bhd",
+    "collected": "138",
+    "redeemed": null
+  },
+  {
+    "date": "04/03/2020",
+    "phone": "60127031404",
+    "store": "Gamma Sdn Bhd",
+    "collected": "38",
+    "redeemed": null
+  },
+  {
+    "date": "05/03/2020",
+    "phone": "60128542161",
+    "store": "Delta Sdn Bhd",
+    "collected": "72",
+    "redeemed": null
+  },
+  {
+    "date": "08/03/2020",
+    "phone": "60126120223",
+    "store": "Alpha Sdn Bhd",
+    "collected": "124",
+    "redeemed": null
+  },
+  {
+    "date": "10/03/2020",
+    "phone": "60122473798",
+    "store": "Foxtrot Sdn Bhd",
+    "collected": "154",
+    "redeemed": null
+  },
+  {
+    "date": "13/03/2020",
+    "phone": "60124596256",
+    "store": "Gamma Sdn Bhd",
+    "collected": "56",
+    "redeemed": null
+  },
+  {
+    "date": "14/03/2020",
+    "phone": "60128542161",
+    "store": "Delta Sdn Bhd",
+    "collected": "155",
+    "redeemed": null
+  },
+  {
+    "date": "15/03/2020",
+    "phone": "60129546732",
+    "store": "Beta Sdn Bhd",
+    "collected": "158",
+    "redeemed": null
+  },
+  {
+    "date": "15/03/2020",
+    "phone": "60125273425",
+    "store": "Gamma Sdn Bhd",
+    "collected": "167",
+    "redeemed": null
+  },
+  {
+    "date": "15/03/2020",
+    "phone": "60122911039",
+    "store": "Delta Sdn Bhd",
+    "collected": "192",
+    "redeemed": null
+  },
+  {
+    "date": "17/03/2020",
+    "phone": "60128598509",
+    "store": "Delta Sdn Bhd",
+    "collected": "126",
+    "redeemed": null
+  },
+  {
+    "date": "17/03/2020",
+    "phone": "60128542161",
+    "store": "Beta Sdn Bhd",
+    "collected": "168",
+    "redeemed": null
+  },
+  {
+    "date": "21/03/2020",
+    "phone": "60124596256",
+    "store": "Echo Sdn Bhd",
+    "collected": "112",
+    "redeemed": null
+  },
+  {
+    "date": "22/03/2020",
+    "phone": "60128598509",
+    "store": "Foxtrot Sdn Bhd",
+    "collected": "98",
+    "redeemed": null
+  },
+  {
+    "date": "22/03/2020",
+    "phone": "60173527250",
+    "store": "Charlie Sdn Bhd",
+    "collected": "54",
+    "redeemed": 500
+  },
+  {
+    "date": "25/03/2020",
+    "phone": "60123966512",
+    "store": "Gamma Sdn Bhd",
+    "collected": "117",
+    "redeemed": null
+  },
+  {
+    "date": "26/03/2020",
+    "phone": "60122911039",
+    "store": "Charlie Sdn Bhd",
+    "collected": "56",
+    "redeemed": null
+  },
+  {
+    "date": "28/03/2020",
+    "phone": "60123966512",
+    "store": "Delta Sdn Bhd",
+    "collected": "152",
+    "redeemed": null
+  },
+  {
+    "date": "30/03/2020",
+    "phone": "60122911039",
+    "store": "Echo Sdn Bhd",
+    "collected": "68",
+    "redeemed": null
+  },
+  {
+    "date": "30/03/2020",
+    "phone": "60122691965",
+    "store": "Gamma Sdn Bhd",
+    "collected": "200",
+    "redeemed": null
+  },
+  {
+    "date": "31/03/2020",
+    "phone": "60173527250",
+    "store": "Alpha Sdn Bhd",
+    "collected": "177",
+    "redeemed": null
+  },
+  {
+    "date": "31/03/2020",
+    "phone": "60121224273",
+    "store": "Charlie Sdn Bhd",
+    "collected": "90",
+    "redeemed": null
+  },
+  {
+    "date": "02/04/2020",
+    "phone": "60126431312",
+    "store": "Delta Sdn Bhd",
+    "collected": "101",
+    "redeemed": null
+  },
+  {
+    "date": "02/04/2020",
+    "phone": "60122911039",
+    "store": "Beta Sdn Bhd",
+    "collected": "148",
+    "redeemed": null
+  },
+  {
+    "date": "03/04/2020",
+    "phone": "60125273425",
+    "store": "Gamma Sdn Bhd",
+    "collected": "128",
+    "redeemed": null
+  },
+  {
+    "date": "04/04/2020",
+    "phone": "60126431312",
+    "store": "Foxtrot Sdn Bhd",
+    "collected": "77",
+    "redeemed": null
+  },
+  {
+    "date": "06/04/2020",
+    "phone": "60122691965",
+    "store": "Charlie Sdn Bhd",
+    "collected": "90",
+    "redeemed": null
+  },
+  {
+    "date": "07/04/2020",
+    "phone": "60122911039",
+    "store": "Foxtrot Sdn Bhd",
+    "collected": "181",
+    "redeemed": null
+  },
+  {
+    "date": "09/04/2020",
+    "phone": "60123966512",
+    "store": "Beta Sdn Bhd",
+    "collected": "126",
+    "redeemed": null
+  },
+  {
+    "date": "10/04/2020",
+    "phone": "60126120223",
+    "store": "Beta Sdn Bhd",
+    "collected": "54",
+    "redeemed": null
+  },
+  {
+    "date": "11/04/2020",
+    "phone": "60125273425",
+    "store": "Beta Sdn Bhd",
+    "collected": "51",
+    "redeemed": null
+  },
+  {
+    "date": "13/04/2020",
+    "phone": "60129546732",
+    "store": "Delta Sdn Bhd",
+    "collected": "151",
+    "redeemed": null
+  },
+  {
+    "date": "13/04/2020",
+    "phone": "60129546732",
+    "store": "Foxtrot Sdn Bhd",
+    "collected": "121",
+    "redeemed": null
+  },
+  {
+    "date": "14/04/2020",
+    "phone": "60121224273",
+    "store": "Beta Sdn Bhd",
+    "collected": "162",
+    "redeemed": null
+  },
+  {
+    "date": "15/04/2020",
+    "phone": "60121224273",
+    "store": "Echo Sdn Bhd",
+    "collected": "179",
+    "redeemed": null
+  },
+  {
+    "date": "17/04/2020",
+    "phone": "60128598509",
+    "store": "Gamma Sdn Bhd",
+    "collected": "34",
+    "redeemed": null
+  },
+  {
+    "date": "17/04/2020",
+    "phone": "60126431312",
+    "store": "Echo Sdn Bhd",
+    "collected": "64",
+    "redeemed": null
+  },
+  {
+    "date": "21/04/2020",
+    "phone": "60122691965",
+    "store": "Echo Sdn Bhd",
+    "collected": "42",
+    "redeemed": null
+  },
+  {
+    "date": "24/04/2020",
+    "phone": "60123966512",
+    "store": "Charlie Sdn Bhd",
+    "collected": "74",
+    "redeemed": null
+  },
+  {
+    "date": "24/04/2020",
+    "phone": "60121224273",
+    "store": "Beta Sdn Bhd",
+    "collected": "147",
+    "redeemed": null
+  },
+  {
+    "date": "25/04/2020",
+    "phone": "60126431312",
+    "store": "Charlie Sdn Bhd",
+    "collected": "138",
+    "redeemed": null
+  },
+  {
+    "date": "29/04/2020",
+    "phone": "60127031404",
+    "store": "Beta Sdn Bhd",
+    "collected": "161",
+    "redeemed": null
+  },
+  {
+    "date": "30/04/2020",
+    "phone": "60128598509",
+    "store": "Charlie Sdn Bhd",
+    "collected": "159",
+    "redeemed": 250
+  },
+  {
+    "date": "30/04/2020",
+    "phone": "60124596256",
+    "store": "Gamma Sdn Bhd",
+    "collected": "60",
+    "redeemed": null
+  },
+  {
+    "date": "03/05/2020",
+    "phone": "60128846458",
+    "store": "Beta Sdn Bhd",
+    "collected": "115",
+    "redeemed": null
+  },
+  {
+    "date": "06/05/2020",
+    "phone": "60127031404",
+    "store": "Gamma Sdn Bhd",
+    "collected": "193",
+    "redeemed": null
+  },
+  {
+    "date": "06/05/2020",
+    "phone": "60173527250",
+    "store": "Alpha Sdn Bhd",
+    "collected": "89",
+    "redeemed": null
+  },
+  {
+    "date": "07/05/2020",
+    "phone": "60124596256",
+    "store": "Delta Sdn Bhd",
+    "collected": "98",
+    "redeemed": null
+  },
+  {
+    "date": "08/05/2020",
+    "phone": "60123966512",
+    "store": "Beta Sdn Bhd",
+    "collected": "175",
+    "redeemed": null
+  },
+  {
+    "date": "09/05/2020",
+    "phone": "60129546732",
+    "store": "Alpha Sdn Bhd",
+    "collected": "47",
+    "redeemed": null
+  },
+  {
+    "date": "09/05/2020",
+    "phone": "60126431312",
+    "store": "Foxtrot Sdn Bhd",
+    "collected": "149",
+    "redeemed": null
+  },
+  {
+    "date": "09/05/2020",
+    "phone": "60121224273",
+    "store": "Beta Sdn Bhd",
+    "collected": "42",
+    "redeemed": null
+  },
+  {
+    "date": "10/05/2020",
+    "phone": "60122691965",
+    "store": "Delta Sdn Bhd",
+    "collected": "129",
+    "redeemed": null
+  },
+  {
+    "date": "16/05/2020",
+    "phone": "60125273425",
+    "store": "Delta Sdn Bhd",
+    "collected": "48",
+    "redeemed": null
+  },
+  {
+    "date": "16/05/2020",
+    "phone": "60122473798",
+    "store": "Beta Sdn Bhd",
+    "collected": "174",
+    "redeemed": null
+  },
+  {
+    "date": "17/05/2020",
+    "phone": "60128542161",
+    "store": "Charlie Sdn Bhd",
+    "collected": "127",
+    "redeemed": null
+  },
+  {
+    "date": "19/05/2020",
+    "phone": "60128598509",
+    "store": "Echo Sdn Bhd",
+    "collected": "84",
+    "redeemed": 500
+  },
+  {
+    "date": "19/05/2020",
+    "phone": "60123966512",
+    "store": "Delta Sdn Bhd",
+    "collected": "177",
+    "redeemed": null
+  },
+  {
+    "date": "21/05/2020",
+    "phone": "60123966512",
+    "store": "Echo Sdn Bhd",
+    "collected": "177",
+    "redeemed": null
+  },
+  {
+    "date": "21/05/2020",
+    "phone": "60173527250",
+    "store": "Alpha Sdn Bhd",
+    "collected": "65",
+    "redeemed": null
+  },
+  {
+    "date": "21/05/2020",
+    "phone": "60121224273",
+    "store": "Echo Sdn Bhd",
+    "collected": "75",
+    "redeemed": null
+  },
+  {
+    "date": "22/05/2020",
+    "phone": "60126120223",
+    "store": "Foxtrot Sdn Bhd",
+    "collected": "81",
+    "redeemed": null
+  },
+  {
+    "date": "22/05/2020",
+    "phone": "60122473798",
+    "store": "Echo Sdn Bhd",
+    "collected": "168",
+    "redeemed": null
+  },
+  {
+    "date": "23/05/2020",
+    "phone": "60122473798",
+    "store": "Foxtrot Sdn Bhd",
+    "collected": "170",
+    "redeemed": null
+  },
+  {
+    "date": "24/05/2020",
+    "phone": "60122691965",
+    "store": "Echo Sdn Bhd",
+    "collected": "125",
+    "redeemed": null
+  },
+  {
+    "date": "25/05/2020",
+    "phone": "60126120223",
+    "store": "Charlie Sdn Bhd",
+    "collected": "40",
+    "redeemed": null
+  },
+  {
+    "date": "29/05/2020",
+    "phone": "60129546732",
+    "store": "Charlie Sdn Bhd",
+    "collected": "182",
+    "redeemed": null
+  },
+  {
+    "date": "30/05/2020",
+    "phone": "60129546732",
+    "store": "Gamma Sdn Bhd",
+    "collected": "82",
+    "redeemed": null
+  },
+  {
+    "date": "30/05/2020",
+    "phone": "60122473798",
+    "store": "Gamma Sdn Bhd",
+    "collected": "97",
+    "redeemed": 250
+  },
+  {
+    "date": "30/05/2020",
+    "phone": "60173527250",
+    "store": "Alpha Sdn Bhd",
+    "collected": "109",
+    "redeemed": null
+  },
+  {
+    "date": "02/06/2020",
+    "phone": "60128846458",
+    "store": "Alpha Sdn Bhd",
+    "collected": "183",
+    "redeemed": null
+  },
+  {
+    "date": "03/06/2020",
+    "phone": "60128846458",
+    "store": "Alpha Sdn Bhd",
+    "collected": "119",
+    "redeemed": 500
+  },
+  {
+    "date": "04/06/2020",
+    "phone": "60122473798",
+    "store": "Foxtrot Sdn Bhd",
+    "collected": "80",
+    "redeemed": null
+  },
+  {
+    "date": "05/06/2020",
+    "phone": "60122691965",
+    "store": "Charlie Sdn Bhd",
+    "collected": "57",
+    "redeemed": null
+  },
+  {
+    "date": "08/06/2020",
+    "phone": "60122911039",
+    "store": "Alpha Sdn Bhd",
+    "collected": "98",
+    "redeemed": null
+  },
+  {
+    "date": "09/06/2020",
+    "phone": "60122911039",
+    "store": "Alpha Sdn Bhd",
+    "collected": "97",
+    "redeemed": 250
+  },
+  {
+    "date": "16/06/2020",
+    "phone": "60129546732",
+    "store": "Alpha Sdn Bhd",
+    "collected": "114",
+    "redeemed": null
+  },
+  {
+    "date": "16/06/2020",
+    "phone": "60128846458",
+    "store": "Gamma Sdn Bhd",
+    "collected": "163",
+    "redeemed": null
+  },
+  {
+    "date": "17/06/2020",
+    "phone": "60124596256",
+    "store": "Beta Sdn Bhd",
+    "collected": "91",
+    "redeemed": null
+  },
+  {
+    "date": "17/06/2020",
+    "phone": "60122691965",
+    "store": "Foxtrot Sdn Bhd",
+    "collected": "123",
+    "redeemed": 500
+  },
+  {
+    "date": "19/06/2020",
+    "phone": "60128598509",
+    "store": "Charlie Sdn Bhd",
+    "collected": "87",
+    "redeemed": null
+  },
+  {
+    "date": "19/06/2020",
+    "phone": "60173527250",
+    "store": "Foxtrot Sdn Bhd",
+    "collected": "185",
+    "redeemed": null
+  },
+  {
+    "date": "21/06/2020",
+    "phone": "60127031404",
+    "store": "Gamma Sdn Bhd",
+    "collected": "123",
+    "redeemed": null
+  },
+  {
+    "date": "21/06/2020",
+    "phone": "60121224273",
+    "store": "Beta Sdn Bhd",
+    "collected": "104",
+    "redeemed": null
+  },
+  {
+    "date": "22/06/2020",
+    "phone": "60121224273",
+    "store": "Echo Sdn Bhd",
+    "collected": "88",
+    "redeemed": null
+  },
+  {
+    "date": "23/06/2020",
+    "phone": "60128846458",
+    "store": "Echo Sdn Bhd",
+    "collected": "81",
+    "redeemed": null
+  },
+  {
+    "date": "25/06/2020",
+    "phone": "60125273425",
+    "store": "Alpha Sdn Bhd",
+    "collected": "76",
+    "redeemed": null
+  },
+  {
+    "date": "26/06/2020",
+    "phone": "60126120223",
+    "store": "Alpha Sdn Bhd",
+    "collected": "58",
+    "redeemed": null
+  },
+  {
+    "date": "26/06/2020",
+    "phone": "60122911039",
+    "store": "Charlie Sdn Bhd",
+    "collected": "172",
+    "redeemed": null
+  },
+  {
+    "date": "28/06/2020",
+    "phone": "60122911039",
+    "store": "Beta Sdn Bhd",
+    "collected": "87",
+    "redeemed": null
+  },
+  {
+    "date": "29/06/2020",
+    "phone": "60126431312",
+    "store": "Echo Sdn Bhd",
+    "collected": "76",
+    "redeemed": null
+  },
+  {
+    "date": "02/07/2020",
+    "phone": "60128598509",
+    "store": "Beta Sdn Bhd",
+    "collected": "91",
+    "redeemed": null
+  },
+  {
+    "date": "05/07/2020",
+    "phone": "60126120223",
+    "store": "Echo Sdn Bhd",
+    "collected": "167",
+    "redeemed": null
+  },
+  {
+    "date": "05/07/2020",
+    "phone": "60122691965",
+    "store": "Beta Sdn Bhd",
+    "collected": "31",
+    "redeemed": 250
+  },
+  {
+    "date": "07/07/2020",
+    "phone": "60123966512",
+    "store": "Alpha Sdn Bhd",
+    "collected": "48",
+    "redeemed": null
+  },
+  {
+    "date": "07/07/2020",
+    "phone": "60173527250",
+    "store": "Alpha Sdn Bhd",
+    "collected": "122",
+    "redeemed": null
+  },
+  {
+    "date": "09/07/2020",
+    "phone": "60123966512",
+    "store": "Gamma Sdn Bhd",
+    "collected": "50",
+    "redeemed": null
+  },
+  {
+    "date": "10/07/2020",
+    "phone": "60127031404",
+    "store": "Delta Sdn Bhd",
+    "collected": "125",
+    "redeemed": null
+  },
+  {
+    "date": "12/07/2020",
+    "phone": "60122691965",
+    "store": "Alpha Sdn Bhd",
+    "collected": "88",
+    "redeemed": null
+  },
+  {
+    "date": "15/07/2020",
+    "phone": "60129546732",
+    "store": "Gamma Sdn Bhd",
+    "collected": "124",
+    "redeemed": null
+  },
+  {
+    "date": "18/07/2020",
+    "phone": "60173527250",
+    "store": "Beta Sdn Bhd",
+    "collected": "94",
+    "redeemed": null
+  },
+  {
+    "date": "19/07/2020",
+    "phone": "60122473798",
+    "store": "Echo Sdn Bhd",
+    "collected": "160",
+    "redeemed": null
+  },
+  {
+    "date": "21/07/2020",
+    "phone": "60126431312",
+    "store": "Alpha Sdn Bhd",
+    "collected": "33",
+    "redeemed": null
+  },
+  {
+    "date": "23/07/2020",
+    "phone": "60129546732",
+    "store": "Foxtrot Sdn Bhd",
+    "collected": "85",
+    "redeemed": null
+  },
+  {
+    "date": "23/07/2020",
+    "phone": "60125273425",
+    "store": "Foxtrot Sdn Bhd",
+    "collected": "167",
+    "redeemed": null
+  },
+  {
+    "date": "23/07/2020",
+    "phone": "60173527250",
+    "store": "Alpha Sdn Bhd",
+    "collected": "156",
+    "redeemed": null
+  },
+  {
+    "date": "25/07/2020",
+    "phone": "60125273425",
+    "store": "Beta Sdn Bhd",
+    "collected": "116",
+    "redeemed": null
+  },
+  {
+    "date": "25/07/2020",
+    "phone": "60122691965",
+    "store": "Gamma Sdn Bhd",
+    "collected": "102",
+    "redeemed": null
+  },
+  {
+    "date": "25/07/2020",
+    "phone": "60121224273",
+    "store": "Gamma Sdn Bhd",
+    "collected": "168",
+    "redeemed": null
+  },
+  {
+    "date": "27/07/2020",
+    "phone": "60123966512",
+    "store": "Alpha Sdn Bhd",
+    "collected": "82",
+    "redeemed": null
+  },
+  {
+    "date": "27/07/2020",
+    "phone": "60122473798",
+    "store": "Foxtrot Sdn Bhd",
+    "collected": "75",
+    "redeemed": null
+  },
+  {
+    "date": "29/07/2020",
+    "phone": "60125273425",
+    "store": "Gamma Sdn Bhd",
+    "collected": "80",
+    "redeemed": null
+  },
+  {
+    "date": "31/07/2020",
+    "phone": "60123966512",
+    "store": "Charlie Sdn Bhd",
+    "collected": "76",
+    "redeemed": null
+  },
+  {
+    "date": "02/08/2020",
+    "phone": "60123966512",
+    "store": "Gamma Sdn Bhd",
+    "collected": "70",
+    "redeemed": null
+  },
+  {
+    "date": "02/08/2020",
+    "phone": "60125273425",
+    "store": "Charlie Sdn Bhd",
+    "collected": "36",
+    "redeemed": null
+  },
+  {
+    "date": "02/08/2020",
+    "phone": "60122691965",
+    "store": "Charlie Sdn Bhd",
+    "collected": "92",
+    "redeemed": null
+  },
+  {
+    "date": "02/08/2020",
+    "phone": "60173527250",
+    "store": "Gamma Sdn Bhd",
+    "collected": "101",
+    "redeemed": null
+  },
+  {
+    "date": "06/08/2020",
+    "phone": "60126431312",
+    "store": "Gamma Sdn Bhd",
+    "collected": "142",
+    "redeemed": null
+  },
+  {
+    "date": "07/08/2020",
+    "phone": "60123966512",
+    "store": "Gamma Sdn Bhd",
+    "collected": "195",
+    "redeemed": null
+  },
+  {
+    "date": "08/08/2020",
+    "phone": "60173527250",
+    "store": "Beta Sdn Bhd",
+    "collected": "144",
+    "redeemed": null
+  },
+  {
+    "date": "09/08/2020",
+    "phone": "60122473798",
+    "store": "Beta Sdn Bhd",
+    "collected": "74",
+    "redeemed": null
+  },
+  {
+    "date": "10/08/2020",
+    "phone": "60122911039",
+    "store": "Echo Sdn Bhd",
+    "collected": "184",
+    "redeemed": null
+  },
+  {
+    "date": "12/08/2020",
+    "phone": "60122911039",
+    "store": "Alpha Sdn Bhd",
+    "collected": "32",
+    "redeemed": null
+  },
+  {
+    "date": "13/08/2020",
+    "phone": "60128598509",
+    "store": "Charlie Sdn Bhd",
+    "collected": "57",
+    "redeemed": null
+  },
+  {
+    "date": "15/08/2020",
+    "phone": "60125273425",
+    "store": "Delta Sdn Bhd",
+    "collected": "162",
+    "redeemed": null
+  },
+  {
+    "date": "17/08/2020",
+    "phone": "60122473798",
+    "store": "Alpha Sdn Bhd",
+    "collected": "129",
+    "redeemed": null
+  },
+  {
+    "date": "19/08/2020",
+    "phone": "60125273425",
+    "store": "Echo Sdn Bhd",
+    "collected": "151",
+    "redeemed": null
+  },
+  {
+    "date": "23/08/2020",
+    "phone": "60121224273",
+    "store": "Charlie Sdn Bhd",
+    "collected": "54",
+    "redeemed": null
+  },
+  {
+    "date": "25/08/2020",
+    "phone": "60126431312",
+    "store": "Foxtrot Sdn Bhd",
+    "collected": "79",
+    "redeemed": null
+  },
+  {
+    "date": "26/08/2020",
+    "phone": "60122911039",
+    "store": "Delta Sdn Bhd",
+    "collected": "188",
+    "redeemed": null
+  },
+  {
+    "date": "28/08/2020",
+    "phone": "60123966512",
+    "store": "Gamma Sdn Bhd",
+    "collected": "170",
+    "redeemed": null
+  },
+  {
+    "date": "28/08/2020",
+    "phone": "60123966512",
+    "store": "Foxtrot Sdn Bhd",
+    "collected": "157",
+    "redeemed": null
+  },
+  {
+    "date": "28/08/2020",
+    "phone": "60123966512",
+    "store": "Delta Sdn Bhd",
+    "collected": "155",
+    "redeemed": null
+  },
+  {
+    "date": "28/08/2020",
+    "phone": "60173527250",
+    "store": "Delta Sdn Bhd",
+    "collected": "104",
+    "redeemed": null
+  },
+  {
+    "date": "29/08/2020",
+    "phone": "60123966512",
+    "store": "Gamma Sdn Bhd",
+    "collected": "96",
+    "redeemed": null
+  },
+  {
+    "date": "30/08/2020",
+    "phone": "60129546732",
+    "store": "Echo Sdn Bhd",
+    "collected": "54",
+    "redeemed": null
+  },
+  {
+    "date": "30/08/2020",
+    "phone": "60126120223",
+    "store": "Beta Sdn Bhd",
+    "collected": "116",
+    "redeemed": null
+  },
+  {
+    "date": "31/08/2020",
+    "phone": "60122691965",
+    "store": "Beta Sdn Bhd",
+    "collected": "190",
+    "redeemed": null
+  },
+  {
+    "date": "02/09/2020",
+    "phone": "60126431312",
+    "store": "Foxtrot Sdn Bhd",
+    "collected": "82",
+    "redeemed": null
+  },
+  {
+    "date": "03/09/2020",
+    "phone": "60128598509",
+    "store": "Foxtrot Sdn Bhd",
+    "collected": "87",
+    "redeemed": null
+  },
+  {
+    "date": "03/09/2020",
+    "phone": "60126431312",
+    "store": "Beta Sdn Bhd",
+    "collected": "177",
+    "redeemed": null
+  },
+  {
+    "date": "04/09/2020",
+    "phone": "60128598509",
+    "store": "Alpha Sdn Bhd",
+    "collected": "80",
+    "redeemed": null
+  },
+  {
+    "date": "04/09/2020",
+    "phone": "60125273425",
+    "store": "Echo Sdn Bhd",
+    "collected": "144",
+    "redeemed": null
+  },
+  {
+    "date": "04/09/2020",
+    "phone": "60125273425",
+    "store": "Delta Sdn Bhd",
+    "collected": "125",
+    "redeemed": null
+  },
+  {
+    "date": "05/09/2020",
+    "phone": "60128542161",
+    "store": "Foxtrot Sdn Bhd",
+    "collected": "66",
+    "redeemed": null
+  },
+  {
+    "date": "06/09/2020",
+    "phone": "60128598509",
+    "store": "Beta Sdn Bhd",
+    "collected": "171",
+    "redeemed": null
+  },
+  {
+    "date": "08/09/2020",
+    "phone": "60126431312",
+    "store": "Alpha Sdn Bhd",
+    "collected": "184",
+    "redeemed": null
+  },
+  {
+    "date": "08/09/2020",
+    "phone": "60124596256",
+    "store": "Foxtrot Sdn Bhd",
+    "collected": "151",
+    "redeemed": null
+  },
+  {
+    "date": "10/09/2020",
+    "phone": "60128598509",
+    "store": "Echo Sdn Bhd",
+    "collected": "139",
+    "redeemed": null
+  },
+  {
+    "date": "10/09/2020",
+    "phone": "60173527250",
+    "store": "Beta Sdn Bhd",
+    "collected": "120",
+    "redeemed": null
+  },
+  {
+    "date": "12/09/2020",
+    "phone": "60125273425",
+    "store": "Beta Sdn Bhd",
+    "collected": "36",
+    "redeemed": null
+  },
+  {
+    "date": "13/09/2020",
+    "phone": "60122473798",
+    "store": "Foxtrot Sdn Bhd",
+    "collected": "76",
+    "redeemed": null
+  },
+  {
+    "date": "14/09/2020",
+    "phone": "60129546732",
+    "store": "Alpha Sdn Bhd",
+    "collected": "42",
+    "redeemed": null
+  },
+  {
+    "date": "15/09/2020",
+    "phone": "60127031404",
+    "store": "Beta Sdn Bhd",
+    "collected": "90",
+    "redeemed": null
+  },
+  {
+    "date": "16/09/2020",
+    "phone": "60122691965",
+    "store": "Delta Sdn Bhd",
+    "collected": "74",
+    "redeemed": null
+  },
+  {
+    "date": "17/09/2020",
+    "phone": "60129546732",
+    "store": "Gamma Sdn Bhd",
+    "collected": "193",
+    "redeemed": null
+  },
+  {
+    "date": "18/09/2020",
+    "phone": "60122473798",
+    "store": "Gamma Sdn Bhd",
+    "collected": "123",
+    "redeemed": null
+  },
+  {
+    "date": "20/09/2020",
+    "phone": "60123966512",
+    "store": "Charlie Sdn Bhd",
+    "collected": "84",
+    "redeemed": null
+  },
+  {
+    "date": "20/09/2020",
+    "phone": "60122691965",
+    "store": "Delta Sdn Bhd",
+    "collected": "173",
+    "redeemed": null
+  },
+  {
+    "date": "21/09/2020",
+    "phone": "60125273425",
+    "store": "Charlie Sdn Bhd",
+    "collected": "119",
+    "redeemed": null
+  },
+  {
+    "date": "22/09/2020",
+    "phone": "60126431312",
+    "store": "Alpha Sdn Bhd",
+    "collected": "76",
+    "redeemed": null
+  },
+  {
+    "date": "22/09/2020",
+    "phone": "60173527250",
+    "store": "Foxtrot Sdn Bhd",
+    "collected": "61",
+    "redeemed": null
+  },
+  {
+    "date": "23/09/2020",
+    "phone": "60127031404",
+    "store": "Echo Sdn Bhd",
+    "collected": "89",
+    "redeemed": null
+  },
+  {
+    "date": "23/09/2020",
+    "phone": "60122473798",
+    "store": "Foxtrot Sdn Bhd",
+    "collected": "58",
+    "redeemed": null
+  },
+  {
+    "date": "25/09/2020",
+    "phone": "60126431312",
+    "store": "Echo Sdn Bhd",
+    "collected": "101",
+    "redeemed": null
+  },
+  {
+    "date": "26/09/2020",
+    "phone": "60128542161",
+    "store": "Foxtrot Sdn Bhd",
+    "collected": "164",
+    "redeemed": null
+  },
+  {
+    "date": "26/09/2020",
+    "phone": "60122691965",
+    "store": "Foxtrot Sdn Bhd",
+    "collected": "61",
+    "redeemed": null
+  },
+  {
+    "date": "28/09/2020",
+    "phone": "60126120223",
+    "store": "Alpha Sdn Bhd",
+    "collected": "179",
+    "redeemed": null
+  },
+  {
+    "date": "29/09/2020",
+    "phone": "60121224273",
+    "store": "Alpha Sdn Bhd",
+    "collected": "51",
+    "redeemed": 250
+  },
+  {
+    "date": "30/09/2020",
+    "phone": "60126431312",
+    "store": "Charlie Sdn Bhd",
+    "collected": "121",
+    "redeemed": null
+  },
+  {
+    "date": "01/10/2020",
+    "phone": "60122911039",
+    "store": "Alpha Sdn Bhd",
+    "collected": "178",
+    "redeemed": null
+  },
+  {
+    "date": "02/10/2020",
+    "phone": "60122473798",
+    "store": "Alpha Sdn Bhd",
+    "collected": "155",
+    "redeemed": null
+  },
+  {
+    "date": "06/10/2020",
+    "phone": "60125273425",
+    "store": "Gamma Sdn Bhd",
+    "collected": "181",
+    "redeemed": null
+  },
+  {
+    "date": "09/10/2020",
+    "phone": "60128542161",
+    "store": "Foxtrot Sdn Bhd",
+    "collected": "81",
+    "redeemed": null
+  },
+  {
+    "date": "12/10/2020",
+    "phone": "60125273425",
+    "store": "Delta Sdn Bhd",
+    "collected": "108",
+    "redeemed": null
+  },
+  {
+    "date": "12/10/2020",
+    "phone": "60122691965",
+    "store": "Gamma Sdn Bhd",
+    "collected": "50",
+    "redeemed": null
+  },
+  {
+    "date": "13/10/2020",
+    "phone": "60122911039",
+    "store": "Beta Sdn Bhd",
+    "collected": "198",
+    "redeemed": null
+  },
+  {
+    "date": "15/10/2020",
+    "phone": "60126120223",
+    "store": "Charlie Sdn Bhd",
+    "collected": "129",
+    "redeemed": null
+  },
+  {
+    "date": "16/10/2020",
+    "phone": "60128846458",
+    "store": "Charlie Sdn Bhd",
+    "collected": "175",
+    "redeemed": null
+  },
+  {
+    "date": "19/10/2020",
+    "phone": "60129546732",
+    "store": "Foxtrot Sdn Bhd",
+    "collected": "137",
+    "redeemed": null
+  },
+  {
+    "date": "19/10/2020",
+    "phone": "60121224273",
+    "store": "Charlie Sdn Bhd",
+    "collected": "160",
+    "redeemed": null
+  },
+  {
+    "date": "22/10/2020",
+    "phone": "60126120223",
+    "store": "Alpha Sdn Bhd",
+    "collected": "36",
+    "redeemed": null
+  },
+  {
+    "date": "23/10/2020",
+    "phone": "60126431312",
+    "store": "Alpha Sdn Bhd",
+    "collected": "81",
+    "redeemed": null
+  },
+  {
+    "date": "24/10/2020",
+    "phone": "60125273425",
+    "store": "Gamma Sdn Bhd",
+    "collected": "104",
+    "redeemed": null
+  },
+  {
+    "date": "28/10/2020",
+    "phone": "60121224273",
+    "store": "Delta Sdn Bhd",
+    "collected": "152",
+    "redeemed": null
+  },
+  {
+    "date": "30/10/2020",
+    "phone": "60126120223",
+    "store": "Delta Sdn Bhd",
+    "collected": "193",
+    "redeemed": null
+  },
+  {
+    "date": "31/10/2020",
+    "phone": "60122473798",
+    "store": "Delta Sdn Bhd",
+    "collected": "124",
+    "redeemed": 250
+  },
+  {
+    "date": "02/11/2020",
+    "phone": "60122473798",
+    "store": "Echo Sdn Bhd",
+    "collected": "136",
+    "redeemed": null
+  },
+  {
+    "date": "02/11/2020",
+    "phone": "60121224273",
+    "store": "Delta Sdn Bhd",
+    "collected": "173",
+    "redeemed": null
+  },
+  {
+    "date": "02/11/2020",
+    "phone": "60121224273",
+    "store": "Alpha Sdn Bhd",
+    "collected": "128",
+    "redeemed": null
+  },
+  {
+    "date": "03/11/2020",
+    "phone": "60126431312",
+    "store": "Alpha Sdn Bhd",
+    "collected": "99",
+    "redeemed": null
+  },
+  {
+    "date": "04/11/2020",
+    "phone": "60129546732",
+    "store": "Foxtrot Sdn Bhd",
+    "collected": "165",
+    "redeemed": null
+  },
+  {
+    "date": "05/11/2020",
+    "phone": "60127031404",
+    "store": "Gamma Sdn Bhd",
+    "collected": "54",
+    "redeemed": null
+  },
+  {
+    "date": "05/11/2020",
+    "phone": "60126431312",
+    "store": "Gamma Sdn Bhd",
+    "collected": "118",
+    "redeemed": null
+  },
+  {
+    "date": "07/11/2020",
+    "phone": "60128542161",
+    "store": "Beta Sdn Bhd",
+    "collected": "57",
+    "redeemed": null
+  },
+  {
+    "date": "09/11/2020",
+    "phone": "60129546732",
+    "store": "Gamma Sdn Bhd",
+    "collected": "107",
+    "redeemed": null
+  },
+  {
+    "date": "09/11/2020",
+    "phone": "60128846458",
+    "store": "Gamma Sdn Bhd",
+    "collected": "88",
+    "redeemed": null
+  },
+  {
+    "date": "10/11/2020",
+    "phone": "60123966512",
+    "store": "Gamma Sdn Bhd",
+    "collected": "39",
+    "redeemed": null
+  },
+  {
+    "date": "15/11/2020",
+    "phone": "60126120223",
+    "store": "Beta Sdn Bhd",
+    "collected": "170",
+    "redeemed": null
+  },
+  {
+    "date": "15/11/2020",
+    "phone": "60122691965",
+    "store": "Beta Sdn Bhd",
+    "collected": "147",
+    "redeemed": null
+  },
+  {
+    "date": "16/11/2020",
+    "phone": "60129546732",
+    "store": "Beta Sdn Bhd",
+    "collected": "87",
+    "redeemed": null
+  },
+  {
+    "date": "17/11/2020",
+    "phone": "60126120223",
+    "store": "Foxtrot Sdn Bhd",
+    "collected": "69",
+    "redeemed": null
+  },
+  {
+    "date": "19/11/2020",
+    "phone": "60127031404",
+    "store": "Foxtrot Sdn Bhd",
+    "collected": "41",
+    "redeemed": null
+  },
+  {
+    "date": "19/11/2020",
+    "phone": "60122473798",
+    "store": "Echo Sdn Bhd",
+    "collected": "132",
+    "redeemed": null
+  },
+  {
+    "date": "20/11/2020",
+    "phone": "60122911039",
+    "store": "Foxtrot Sdn Bhd",
+    "collected": "122",
+    "redeemed": null
+  },
+  {
+    "date": "21/11/2020",
+    "phone": "60123966512",
+    "store": "Beta Sdn Bhd",
+    "collected": "111",
+    "redeemed": 1500
+  },
+  {
+    "date": "21/11/2020",
+    "phone": "60125273425",
+    "store": "Gamma Sdn Bhd",
+    "collected": "48",
+    "redeemed": null
+  },
+  {
+    "date": "22/11/2020",
+    "phone": "60122473798",
+    "store": "Beta Sdn Bhd",
+    "collected": "65",
+    "redeemed": null
+  },
+  {
+    "date": "23/11/2020",
+    "phone": "60129546732",
+    "store": "Delta Sdn Bhd",
+    "collected": "56",
+    "redeemed": null
+  },
+  {
+    "date": "23/11/2020",
+    "phone": "60128542161",
+    "store": "Foxtrot Sdn Bhd",
+    "collected": "73",
+    "redeemed": null
+  },
+  {
+    "date": "24/11/2020",
+    "phone": "60128846458",
+    "store": "Delta Sdn Bhd",
+    "collected": "84",
+    "redeemed": null
+  },
+  {
+    "date": "24/11/2020",
+    "phone": "60122691965",
+    "store": "Alpha Sdn Bhd",
+    "collected": "175",
+    "redeemed": null
+  },
+  {
+    "date": "26/11/2020",
+    "phone": "60129546732",
+    "store": "Gamma Sdn Bhd",
+    "collected": "30",
+    "redeemed": null
+  },
+  {
+    "date": "26/11/2020",
+    "phone": "60127031404",
+    "store": "Foxtrot Sdn Bhd",
+    "collected": "40",
+    "redeemed": null
+  },
+  {
+    "date": "26/11/2020",
+    "phone": "60121224273",
+    "store": "Gamma Sdn Bhd",
+    "collected": "195",
+    "redeemed": null
+  },
+  {
+    "date": "29/11/2020",
+    "phone": "60125273425",
+    "store": "Foxtrot Sdn Bhd",
+    "collected": "108",
+    "redeemed": null
+  },
+  {
+    "date": "30/11/2020",
+    "phone": "60122911039",
+    "store": "Gamma Sdn Bhd",
+    "collected": "59",
+    "redeemed": null
+  },
+  {
+    "date": "30/11/2020",
+    "phone": "60173527250",
+    "store": "Foxtrot Sdn Bhd",
+    "collected": "140",
+    "redeemed": null
+  },
+  {
+    "date": "30/11/2020",
+    "phone": "60173527250",
+    "store": "Delta Sdn Bhd",
+    "collected": "111",
+    "redeemed": null
+  },
+  {
+    "date": "30/11/2020",
+    "phone": "60121224273",
+    "store": "Foxtrot Sdn Bhd",
+    "collected": "159",
+    "redeemed": null
+  },
+  {
+    "date": "01/12/2020",
+    "phone": "60122911039",
+    "store": "Echo Sdn Bhd",
+    "collected": "65",
+    "redeemed": null
+  },
+  {
+    "date": "02/12/2020",
+    "phone": "60126120223",
+    "store": "Gamma Sdn Bhd",
+    "collected": "172",
+    "redeemed": null
+  },
+  {
+    "date": "04/12/2020",
+    "phone": "60123966512",
+    "store": "Gamma Sdn Bhd",
+    "collected": "91",
+    "redeemed": null
+  },
+  {
+    "date": "06/12/2020",
+    "phone": "60125273425",
+    "store": "Gamma Sdn Bhd",
+    "collected": "73",
+    "redeemed": null
+  },
+  {
+    "date": "06/12/2020",
+    "phone": "60125273425",
+    "store": "Delta Sdn Bhd",
+    "collected": "49",
+    "redeemed": null
+  },
+  {
+    "date": "08/12/2020",
+    "phone": "60127031404",
+    "store": "Foxtrot Sdn Bhd",
+    "collected": "107",
+    "redeemed": null
+  },
+  {
+    "date": "09/12/2020",
+    "phone": "60173527250",
+    "store": "Foxtrot Sdn Bhd",
+    "collected": "54",
+    "redeemed": null
+  },
+  {
+    "date": "12/12/2020",
+    "phone": "60126431312",
+    "store": "Gamma Sdn Bhd",
+    "collected": "163",
+    "redeemed": null
+  },
+  {
+    "date": "17/12/2020",
+    "phone": "60128846458",
+    "store": "Gamma Sdn Bhd",
+    "collected": "58",
+    "redeemed": null
+  },
+  {
+    "date": "17/12/2020",
+    "phone": "60126431312",
+    "store": "Beta Sdn Bhd",
+    "collected": "169",
+    "redeemed": null
+  },
+  {
+    "date": "17/12/2020",
+    "phone": "60122911039",
+    "store": "Alpha Sdn Bhd",
+    "collected": "200",
+    "redeemed": null
+  },
+  {
+    "date": "17/12/2020",
+    "phone": "60173527250",
+    "store": "Beta Sdn Bhd",
+    "collected": "63",
+    "redeemed": null
+  },
+  {
+    "date": "18/12/2020",
+    "phone": "60126431312",
+    "store": "Gamma Sdn Bhd",
+    "collected": "150",
+    "redeemed": null
+  },
+  {
+    "date": "19/12/2020",
+    "phone": "60126120223",
+    "store": "Echo Sdn Bhd",
+    "collected": "144",
+    "redeemed": null
+  },
+  {
+    "date": "20/12/2020",
+    "phone": "60124596256",
+    "store": "Echo Sdn Bhd",
+    "collected": "69",
+    "redeemed": null
+  },
+  {
+    "date": "21/12/2020",
+    "phone": "60122691965",
+    "store": "Gamma Sdn Bhd",
+    "collected": "162",
+    "redeemed": null
+  },
+  {
+    "date": "24/12/2020",
+    "phone": "60173527250",
+    "store": "Delta Sdn Bhd",
+    "collected": "156",
+    "redeemed": null
+  },
+  {
+    "date": "25/12/2020",
+    "phone": "60123966512",
+    "store": "Beta Sdn Bhd",
+    "collected": "73",
+    "redeemed": null
+  },
+  {
+    "date": "25/12/2020",
+    "phone": "60124596256",
+    "store": "Beta Sdn Bhd",
+    "collected": "36",
+    "redeemed": null
+  },
+  {
+    "date": "27/12/2020",
+    "phone": "60124596256",
+    "store": "Gamma Sdn Bhd",
+    "collected": "122",
+    "redeemed": null
+  },
+  {
+    "date": "27/12/2020",
+    "phone": "60173527250",
+    "store": "Gamma Sdn Bhd",
+    "collected": "173",
+    "redeemed": null
+  },
+  {
+    "date": "28/12/2020",
+    "phone": "60122473798",
+    "store": "Charlie Sdn Bhd",
+    "collected": "61",
+    "redeemed": null
+  },
+  {
+    "date": "30/12/2020",
+    "phone": "60123966512",
+    "store": "Gamma Sdn Bhd",
+    "collected": "200",
+    "redeemed": null
+  },
+  {
+    "date": "30/12/2020",
+    "phone": "60173527250",
+    "store": "Echo Sdn Bhd",
+    "collected": "101",
+    "redeemed": null
+  },
+  {
+    "date": "31/12/2020",
+    "phone": "60129546732",
+    "store": "Beta Sdn Bhd",
+    "collected": "56",
+    "redeemed": null
+  },
+  {
+    "date": "31/12/2020",
+    "phone": "60128598509",
+    "store": "Delta Sdn Bhd",
+    "collected": "111",
+    "redeemed": null
+  },
+  {
+    "date": "31/12/2020",
+    "phone": "60128598509",
+    "store": "Beta Sdn Bhd",
+    "collected": "31",
+    "redeemed": null
+  },
+  {
+    "date": "31/12/2020",
+    "phone": "60128542161",
+    "store": "Foxtrot Sdn Bhd",
+    "collected": "88",
+    "redeemed": null
+  },
+  {
+    "date": "31/12/2020",
+    "phone": "60123966512",
+    "store": "Alpha Sdn Bhd",
+    "collected": "110",
+    "redeemed": null
+  }
+]
